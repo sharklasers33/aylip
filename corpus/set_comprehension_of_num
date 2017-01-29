@@ -1,0 +1,3 @@
+{{{num_expr:num:i} for i in {generator_of_nums}}}
+{{{num_expr:num:i} for i in {generator_of_nums} {cond_of_num:var:i}}}
+{{{num_expr:num:i} + {num_expr:num:j} for i in {generator_of_nums} for j in {generator_of_nums}}}

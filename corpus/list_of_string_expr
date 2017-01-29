@@ -1,0 +1,3 @@
+{string}.split()
+{string}.split({char})
+sorted({string_expr})

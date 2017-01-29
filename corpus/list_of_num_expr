@@ -1,0 +1,6 @@
+{list_comprehension_of_num}
+range({num}, {num})
+sorted({list_comprehension_of_num}, key=lambda j: {num_expr:num:j})
+filter(lambda i: {bool_expr:num:i}, {generator_of_nums})
+filter(None, {generator_of_nums})
+list({generator_of_nums})

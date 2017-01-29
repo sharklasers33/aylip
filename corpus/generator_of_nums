@@ -1,0 +1,4 @@
+xrange(10)
+xrange(3, 9)
+xrange(0, 10, 2)
+itertools.chain(xrange(5), xrange(5))

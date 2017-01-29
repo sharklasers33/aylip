@@ -1,0 +1,4 @@
+if {var} % 2 == 0
+if {var}
+if {var} % 3 == 0
+if ({var} * {var}) % 3 == 1

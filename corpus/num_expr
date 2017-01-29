@@ -1,0 +1,10 @@
+string.find({string}, {char})
+string.rfind({string}, {char})
+len({string}.split())
+{num} % 3
+2 ** {num}
+len({list_of_string_expr})
+len({list_of_num_expr})
+abs({num})
+ord({char})
+cmp({num_expr}, {num_expr})

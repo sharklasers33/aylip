@@ -1,0 +1,4 @@
+string.letters
+string.ascii_uppercase
+string.ascii_lowercase
+(t + u for t in {generator_of_strings} for u in {string})

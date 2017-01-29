@@ -1,0 +1,15 @@
+'x'.join({string}.split())
+string.capwords({string})
+string.capitalize({string})
+{string}[::-1]
+{string}[::2]
+{string}[:-1]
+{string}[2:]
+'x'.join({string}.split())
+'z'.join(x for x in {string})
+{string}.lower()
+string.replace({string}, 'o', 'x')
+{string} * 2
+{string} + 'foo'
+bin({num})
+chr({num})

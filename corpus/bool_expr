@@ -1,0 +1,5 @@
+({num} > 3)
+bool({string})
+bool({num})
+all({list_comprehension_of_bool})
+any({list_comprehension_of_bool})

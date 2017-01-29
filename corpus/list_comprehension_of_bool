@@ -1,0 +1,3 @@
+[{bool_expr:num:i} for i in {generator_of_nums}]
+[{bool_expr:num:i} for i in {generator_of_nums} {cond_of_num:var:i}]
+[{bool_expr:num:i} and {bool_expr:num:j} for i in {generator_of_nums} for j in {generator_of_nums}]
